@@ -1,5 +1,7 @@
 # Scrip-Bot
 
+# Sebelum nak install.. dm saya di https://t.me/SandakanVPNTrickster
+
 # UBUNTU 20 ( Recommended )
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
 
